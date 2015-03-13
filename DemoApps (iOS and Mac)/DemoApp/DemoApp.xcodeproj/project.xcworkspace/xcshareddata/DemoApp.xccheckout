@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23AD9D84-15AA-4DE5-8E6D-80FFE4A7DEC8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DemoApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6A7CD79B5F26D29A54946F99D0EB919C09E0568</key>
+		<string>https://github.com/emiscience/EMIHexiColor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DemoApps (iOS and Mac)/DemoApp/DemoApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6A7CD79B5F26D29A54946F99D0EB919C09E0568</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/emiscience/EMIHexiColor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6A7CD79B5F26D29A54946F99D0EB919C09E0568</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6A7CD79B5F26D29A54946F99D0EB919C09E0568</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EMIHexiColor</string>
+		</dict>
+	</array>
+</dict>
+</plist>

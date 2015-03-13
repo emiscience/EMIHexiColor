@@ -3,7 +3,7 @@ version = "1.0.0";
 Pod::Spec.new do |s|
   s.name         = "EMIHexiColor"
   s.version      = version
-  s.summary      = "a compiler-aware category for both iOS and OS X to extend UIColor or NSColor with the capability to parse hex strings."
+  s.summary      = "A compiler-aware category for both iOS and OS X to extend UIColor or NSColor with the capability to parse hex strings."
 
   s.description  = <<-DESC
              # EMIHexiColor (NSColor+EMIHexiColor)
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
             ##How It Works
 
-            `AnyOSColor` is actually a macro that is handled at compile time. depending on that you're compiling for i.e. iOS or OSX, AnyOSColor ultimately renders to UIColor ot NSColor.
+            `AnyOSColor` is actually a macro that is handled at compile time. depending on what you're compiling for i.e. iOS or OSX, AnyOSColor ultimately renders to UIColor ot NSColor.
 
             ##Caveats
 
@@ -35,7 +35,7 @@ Pod::Spec.new do |s|
             1.0.0
 
             ### Mentions
-            This grans bottle fo wine that kept me sane this evening
+            This grand bottle of wine that kept me sane this evening!
             DESC
   s.homepage     = "http://www.github.com/emiscience/NSUIColor-FlatColors"
   s.license      = { :type => "MIT", :file => "LICENSE" }

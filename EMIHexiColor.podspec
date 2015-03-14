@@ -1,4 +1,4 @@
-version = "1.0.0";
+version = "1.0.5";
 
 Pod::Spec.new do |s|
   s.name         = "EMIHexiColor"
@@ -31,19 +31,23 @@ Pod::Spec.new do |s|
 
             Because this category was needed in a hurry, alot of the input string checking was skipped (i.e. the hex string checking). Feel free to update it and let me know so i can add it to the repo for others to enjoy too.
 
+            ##Caveats
+
+            There are two demo's apps with the code, both for OS X and iOS.
+
             ### Version
-            1.0.0
+            1.0.5
 
             ### Mentions
             This grand bottle of wine that kept me sane this evening!
             DESC
-  s.homepage     = "http://www.github.com/emiscience/NSUIColor-FlatColors"
+  s.homepage     = "https://github.com/emiscience/EMIHexiColor"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "Adrian" => "as@emiscience.com" }
   s.social_media_url   = "http://twitter.com/emiscience"
   s.platform     = :ios
   s.platform     = :osx
   s.requires_arc = true
-  s.source       = { :git => "https://github.com/emiscience/NSUIColor-FlatColors.git", :tag => "#{version}" }
-  s.source_files = "NSUIColor+FlatColors"
+  s.source       = { :git => "https://github.com/emiscience/EMIHexiColor.git", :tag => "#{version}" }
+  s.source_files = "EMIHexiColor"
 end

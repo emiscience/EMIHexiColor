@@ -25,7 +25,7 @@ someViewYouWantToColor.backgroundColor = [AnyOSColor colorWithHexRGB:@"FF0000"];
 Because this category was needed in a hurry, alot of the input string checking was skipped (i.e. the hex string checking). Feel free to update it and let me know so i can add it to the repo for others to enjoy too.
 
 ### Version
-1.0.0
+1.0.5
 
 ### Mentions
 This grans bottle fo wine that kept me sane this evening
